@@ -12,8 +12,7 @@ The Inventory Management API is designed to facilitate the management of invento
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
